@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/bruce-quach/" target="_blank">
+  <a href="https://www.linkedin.com/in/bruce-quach/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://bquach1.github.io/website/" target="_blank">
+  <a href="https://bquach1.github.io/website/">
     <img src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
   </a>
-  <a href="https://devpost.com/bquach1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav" target="_blank">
+  <a href="https://devpost.com/bquach1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost Badge"/>
   </a>
 </div>
