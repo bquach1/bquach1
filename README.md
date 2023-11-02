@@ -2,7 +2,7 @@
 
 <h2 align="left">About Me</h2>
 <div id="about" align="center>
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM3d280OXg5ZTV3cmZ0MmcxcXUyc2VzeGQ4aGI1MHMya2I3dGo2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" alt="Penguin coding" />  
+  ![Beans](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM3d280OXg5ZTV3cmZ0MmcxcXUyc2VzeGQ4aGI1MHMya2I3dGo2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif)
 </div>
 
 <h2 align="left">Connect with Me</h2>
