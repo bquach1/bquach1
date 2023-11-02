@@ -10,6 +10,7 @@
   <a href="https://devpost.com/bquach1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost Badge"/>
   </a>
+  [![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=bquach1)](https://github.com/bquach1/github-readme-stats)
 </div>
 
 <div id="badges" align="center">
