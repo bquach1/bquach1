@@ -1,5 +1,10 @@
 <h2 align="center">Hi, I'm Bruce
 
+<h2 align="left">About Me</h2>
+<div id="about" align="center>
+  <img src="https://media4.giphy.com/media/YbXLZ6dymH758xSEbM/giphy.gif?cid=ecf05e47ajnpxc35c3kmyoihbrddz7yw6qe5pffwmf4ixf8z&ep=v1_gifs_search&rid=giphy.gif&ct=g" alt="Penguin coding" />  
+</div>
+
 <h2 align="left">Connect with Me</h2>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/bruce-quach/">
