@@ -10,12 +10,13 @@
   <a href="https://devpost.com/bquach1?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
     <img src="https://img.shields.io/badge/Devpost-003E54?style=for-the-badge&logo=Devpost&logoColor=white" alt="Devpost Badge"/>
   </a>
-  [![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=bquach1)](https://github.com/bquach1/github-readme-stats)
 </div>
 
 <div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=bquach1&style=flat-square&color=blue" alt="GitHub views"/>
 </div>
+
+[![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=bquach1)](https://github.com/bquach1/github-readme-stats)
 
 <!--
 **bquach1/bquach1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
