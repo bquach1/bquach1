@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Bruce
 
 <div id="badges" align="center">
   <h2>Connect with Me</h2>
