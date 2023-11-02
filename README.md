@@ -1,6 +1,6 @@
-### Hi, I'm Bruce
+<h2 align="center">Hi, I'm Bruce
 
-<h2 align="center">Connect with Me</h2>
+<h2 align="left">Connect with Me</h2>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/bruce-quach/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=bquach1&style=flat-square&color=blue" alt="GitHub views"/>
 </div>
 
-<h2 align="center">GitHub Stats</h2>
+<h2 align="left">GitHub Stats</h2>
 
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bquach1&show_icons=true&theme=dark" alt="Bruce's GitHub Stats" /></div>
 
