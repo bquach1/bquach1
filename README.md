@@ -19,7 +19,7 @@
 
 <h2 align="center">GitHub Stats</h2>
 
-<div><img src="https://github-readme-stats.vercel.app/api?username=bquach1&show_icons=true&theme=dark" alt="Bruce's GitHub Stats" /></div>
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bquach1&show_icons=true&theme=dark" alt="Bruce's GitHub Stats" /></div>
 
 <!--
 **bquach1/bquach1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
