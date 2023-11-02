@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 <div id="badges" align="center">
+  <h2>Connect with Me</h2>
   <a href="https://www.linkedin.com/in/bruce-quach/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
@@ -16,6 +17,7 @@
   <img src="https://komarev.com/ghpvc/?username=bquach1&style=flat-square&color=blue" alt="GitHub views"/>
 </div>
 
+<h1>GitHub Stats</h1>
 [![Bruce's GitHub stats](https://github-readme-stats.vercel.app/api?username=bquach1)](https://github.com/bquach1/github-readme-stats)
 
 <!--
