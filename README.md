@@ -1,9 +1,10 @@
 <h2 align="center">Hi, I'm Bruce </h2>
-<p align="center>
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM3d280OXg5ZTV3cmZ0MmcxcXUyc2VzeGQ4aGI1MHMya2I3dGo2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" alt="Coding penguin" />
+<p align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM3d280OXg5ZTV3cmZ0MmcxcXUyc2VzeGQ4aGI1MHMya2I3dGo2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" alt="Alt Text">
 </p>
 
 <h2 align="left">About Me</h2>
+<p>I'm currently a senior studying computer science and software engineering at Louisiana State University in Baton Rouge.</p>
 
 
 <h2 align="left">Connect with Me</h2>
