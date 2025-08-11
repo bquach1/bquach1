@@ -1,13 +1,11 @@
 <h2 align="center">Hi, I'm Bruce </h2>
 <p align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM3d280OXg5ZTV3cmZ0MmcxcXUyc2VzeGQ4aGI1MHMya2I3dGo2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" alt="Alt Text">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjM3d280OXg5ZTV3cmZ0MmcxcXUyc2VzeGQ4aGI1MHMya2I3dGo2aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/YbXLZ6dymH758xSEbM/giphy.gif" alt="Penguin coding">
 </p>
 
 <h2 align="left">About Me</h2>
 
-- Currently a senior undergraduate studying computer science and software engineering at Louisiana State University in Baton Rouge.
-
-- Working as a web development researcher at LSU's pedagogical kinesiology lab and a research assistant in the LSU Mobile and Internet Security (MIST) Lab.
+- Currently a Software Engineer I at PMG in Dallas, TX.
   
 - Focused on full-stack and frontend web development with React.js, Node.js/Express.js, Flask/Django, SQL Databases (MySQL, PostgreSQL), and NoSQL Databases (MongoDB, Firebase).
 
