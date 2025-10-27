@@ -1,9 +1,9 @@
 <h2 align="center">Hi, I'm Bruce </h2>
 <h2 align="left">About Me</h2>
 
-- Currently a Software Engineer I at PMG in Dallas, TX.
+- Currently a Software Engineer II at PMG in Dallas, TX.
   
-- Focused on full-stack and frontend web development with React.js, Node.js/Express.js, Flask/Django, SQL Databases (MySQL, PostgreSQL), and NoSQL Databases (MongoDB, Firebase).
+- Focused on frontend and full-stack web development with React.js, Node.js/Express.js, Flask/Django, SQL Databases (MySQL, PostgreSQL), and NoSQL Databases (MongoDB, Firebase).
 
 - Experience working on full stack web applications and software engineering at Tesla, DXC Technology, Sparq, and more.
   
