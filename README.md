@@ -75,7 +75,9 @@
 
 <h2 align="left">GitHub Stats</h2>
 
-![Stats](profile/stats.svg)
+<p align="center">
+  <img src="profile/stats.svg" />
+</p>
 
 <!--
 **bquach1/bquach1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
